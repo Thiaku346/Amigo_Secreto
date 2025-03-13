@@ -31,7 +31,3 @@ Este código funciona em qualquer navegador moderno, já que utiliza funcionalid
 
 1. Digite o nome de um amigo no campo de entrada e clique em "Adicionar".
 2. Após adicionar alguns amigos, clique em "Sortear Amigo Secreto" para revelar quem é o amigo secreto.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
